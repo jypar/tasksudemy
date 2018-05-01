@@ -6,6 +6,7 @@ public class Main {
         s1.setPhone("0771326548");
         s1.setCity("Jalal-Abad");
         s1.setState("Jalal-Abad");
+        System.out.println("hi everybody");
         System.out.println(s1.toString());
         System.out.println("State:"+s1.getState());
         System.out.println("City:"+s1.getCity());
